@@ -1,0 +1,9 @@
+{
+  "project_id": "fa4e0000-1234-5678-90ab-cd1234567890",
+  "project_name": "oss-project",
+  "org_id": "fa4e0001-1234-5678-90ab-cd1234567890",
+  "appkey": "ossfkey",
+  "region": "us-test",
+  "api_key": "ik_1ad4db07fb875af0ac196feca795d0e6",
+  "oss_host": "https://hk36kn9p.us-east.insforge.app"
+}
