@@ -21,8 +21,6 @@
 
 ---
 
-![Balansify Banner](public/banner.png)
-
 **Balansify** is a professional, high-fidelity corporate finance platform designed to compute liquidity, solvency, turnover, and profitability ratios while maintaining a robust, double-entry bookkeeping pipeline. Powered by **InsForge (BaaS)**, Balansify integrates AI-powered financial scanning, natural-language ledger entries, and automated financial statement generation powered by edge functions.
 
 ---
@@ -166,7 +164,6 @@ Balansify is designed, built, and maintained by **Kreshiv Kewalramani**. Feel fr
 * **Name**: Kreshiv Kewalramani
 * **LinkedIn**: [linkedin.com/in/kreshiv-kewalramani](https://www.linkedin.com/in/kreshiv-kewalramani/)
 * **Email**: [kreshiv.kewalramani@gmail.com](mailto:kreshiv.kewalramani@gmail.com)
-* **GitHub Portfolio**: [@Kreshiv](https://github.com/Kreshiv)
 
 ---
 
