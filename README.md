@@ -48,12 +48,6 @@ Deno Serverless Edge Functions compile entries on the fly into complete downstre
 * **Trial Balance (`trialBalanceCreation`)**: Builds a self-balancing double-entry Trial Balance sheet.
 * **Financial Statements (`financialStatementCreation`)**: Adjusts entries for closing stock, depreciation, and accruals, rendering a Trading & Profit & Loss Statement alongside a structured Balance Sheet.
 
-### 5. 🛡️ Advanced Security and Rate Limiting
-Built from the ground up for strict security:
-- **SHA-256 CSRF Cryptography**: Custom SHA-256 CSRF token computed on the client and verified on every serverless execution.
-- **PostgreSQL Row-Level Security (RLS)**: Users can only see and edit their own private data.
-- **Edge Rate Limiting**: Limiters restrict edge function requests to 60 per minute per user to prevent denial-of-service vectors.
-
 ---
 
 ## 🏛️ System Architecture
